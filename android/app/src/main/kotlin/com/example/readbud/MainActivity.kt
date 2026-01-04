@@ -1,4 +1,4 @@
-package com.example.flutter_bp
+package com.example.readbud
 
 import io.flutter.embedding.android.FlutterActivity
 
